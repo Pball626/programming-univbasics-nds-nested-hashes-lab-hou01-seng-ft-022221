@@ -16,7 +16,6 @@ def assembled_aoh
     BRUCE_G
     ]
     assembled_aoh
-    binding.pry
 end
 
 def literal_aoh[
