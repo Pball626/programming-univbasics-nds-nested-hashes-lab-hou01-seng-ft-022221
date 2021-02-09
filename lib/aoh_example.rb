@@ -18,6 +18,8 @@ def assembled_aoh
 end
 
 def literal_aoh
+  [
+    ]
   
 end
 
